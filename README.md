@@ -13,11 +13,12 @@
 
 
 ## Low pass filter
-![image](https://github.com/ArghaKamalSamanta/EEG-controlled-drone/assets/97786651/e7c99357-add6-4e21-8512-626291ab59d7)
+![lpf](https://github.com/ArghaKamalSamanta/Neuronine/assets/97786651/6c5c507a-edf6-46e9-8ffa-da758151b661)
 
 
-## Circuit to wire Arduino MK1010 to the hacked controller
-![image](https://github.com/ArghaKamalSamanta/EEG-controlled-drone/assets/97786651/15c8efb2-0dcb-4119-a5c9-c0fee8191e56)
+## Circuit to wire Arduino UNO to the hacked controller
+![Spectacular Gaaris-Duup](https://github.com/ArghaKamalSamanta/Neuronine/assets/97786651/2b362b08-e232-453a-9551-c22bf09fc5d9)
+
 
 
 
